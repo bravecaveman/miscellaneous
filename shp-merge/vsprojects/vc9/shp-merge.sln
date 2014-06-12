@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shp-merge", "shp-merge\shp-merge.vcproj", "{3C52390C-99C9-43EA-AACD-43DD72871A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F9597C-8041-4ADE-A063-4C670AAC229C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68F9597C-8041-4ADE-A063-4C670AAC229C}.Debug|Win32.Build.0 = Debug|Win32
+		{68F9597C-8041-4ADE-A063-4C670AAC229C}.Release|Win32.ActiveCfg = Release|Win32
+		{68F9597C-8041-4ADE-A063-4C670AAC229C}.Release|Win32.Build.0 = Release|Win32
+		{3C52390C-99C9-43EA-AACD-43DD72871A1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C52390C-99C9-43EA-AACD-43DD72871A1D}.Debug|Win32.Build.0 = Debug|Win32
+		{3C52390C-99C9-43EA-AACD-43DD72871A1D}.Release|Win32.ActiveCfg = Release|Win32
+		{3C52390C-99C9-43EA-AACD-43DD72871A1D}.Release|Win32.Build.0 = Release|Win32
+		{BA81B540-D8BE-4F34-8A2C-6FD593C207FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA81B540-D8BE-4F34-8A2C-6FD593C207FD}.Debug|Win32.Build.0 = Debug|Win32
+		{BA81B540-D8BE-4F34-8A2C-6FD593C207FD}.Release|Win32.ActiveCfg = Release|Win32
+		{BA81B540-D8BE-4F34-8A2C-6FD593C207FD}.Release|Win32.Build.0 = Release|Win32
+		{258A52F8-DC65-4A16-99E3-BE4CC4984D05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{258A52F8-DC65-4A16-99E3-BE4CC4984D05}.Debug|Win32.Build.0 = Debug|Win32
+		{258A52F8-DC65-4A16-99E3-BE4CC4984D05}.Release|Win32.ActiveCfg = Release|Win32
+		{258A52F8-DC65-4A16-99E3-BE4CC4984D05}.Release|Win32.Build.0 = Release|Win32
+		{37F0B4E4-734E-47FE-8468-DA4A82A780A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37F0B4E4-734E-47FE-8468-DA4A82A780A0}.Debug|Win32.Build.0 = Debug|Win32
+		{37F0B4E4-734E-47FE-8468-DA4A82A780A0}.Release|Win32.ActiveCfg = Release|Win32
+		{37F0B4E4-734E-47FE-8468-DA4A82A780A0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
