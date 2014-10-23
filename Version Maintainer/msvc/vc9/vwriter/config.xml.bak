@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+
+<doc>
+	<!-- Copyright String -->
+	<CopyrightString>Mesada.Technology.Company.Ltd...CopyRight</CopyrightString>
+
+	<!-- Major Version -->
+	<MajorVersion>4</MajorVersion>
+
+	<!-- Modules -->
+	<Modules>
+		<Routing>
+			<ModuleId>1</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<routing.ext/>
+			</Files>
+		</Routing>
+
+		<NW>
+			<ModuleId>2</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<MapRenderingDB/>
+			</Files>
+		</NW>
+
+		<PoI>
+			<ModuleId>3</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<bktTree.lzo/>
+				<cat.dat/>
+				<Catalog.dat/>
+				<Corpus.dat/>
+				<Dictionary.dat/>
+				<districtoft.dat/>
+				<LandMarkPoi/>
+				<Pinyin.dat/>
+				<records.lzo/>
+				<Special.poi/>
+			</Files>
+		</PoI>
+
+		<GeoCode>
+			<ModuleId>4</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<AreaDB.dat/>
+				<AreaName.dat/>
+				<AreaDBname.sa1/>
+				<AreaDBnamePY.sa2/>
+
+				<gs.dat/>
+				<gs.eid/>
+				<gs.idx/>
+				<gs.sa1/>
+				<gs.sa2/>
+
+				<rgDB.bin/>
+			</Files>
+		</GeoCode>
+
+		<Raster>
+			<ModuleId>7</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<RasterDB\RasterImageDBDaytime/>
+				<RasterDB\RasterImageDBDaytime1/>
+				<RasterDB\RasterImageDBDaytime2/>
+				<RasterDB\RasterImageDBNight/>
+				<RasterDB\RasterImageDBNight1/>
+				<RasterDB\RasterImageDBNight2/>
+			</Files>
+		</Raster>
+
+		<Pic>
+			<ModuleId>2</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<PicDB\400_480_0/>
+			</Files>
+		</Pic>
+
+		<SpeedCam>
+			<ModuleId>2</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<speedcam/>
+			</Files>
+		</SpeedCam>
+
+		<Misc>
+			<ModuleId>8</ModuleId>
+			<MinorVersion>1</MinorVersion>
+
+			<Files>
+				<MapCompanyDataVer/>
+			</Files>
+		</Misc>
+	</Modules>
+
+	<!-- Map Map Company Code -->
+	<MapCompanyId>1</MapCompanyId>
+
+	<BuildDate>
+		<BuildYear></BuildYear>
+		<BuildMonth></BuildMonth>
+		<BuildDay></BuildDay>
+	</BuildDate>
+
+	<BuildNumber></BuildNumber>
+
+	<!-- Original Map Version -->
+	<OMMajorVersion>19</OMMajorVersion>
+	<OMMinorVersion>0</OMMinorVersion>
+</doc>

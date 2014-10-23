@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+
+<doc>
+	<!-- Copyright String -->
+	<CopyrightString>Mesada.Technology.Company.Ltd...CopyRight</CopyrightString>
+
+	<!-- Major Version -->
+	<MajorVersion>4</MajorVersion>
+
+	<!-- Modules -->
+	<Modules>
+		<Routing>
+			<ModuleId>1</ModuleId>
+			<MinorVersion>3</MinorVersion>
+
+			<Files>
+				<routing.ext/>
+			</Files>
+		</Routing>
+
+		<NW>
+			<ModuleId>2</ModuleId>
+			<MinorVersion>3</MinorVersion>
+
+			<Files>
+				<MapRenderingDB/>
+
+				<RasterDB\RasterImageDBDaytime/>
+				<RasterDB\RasterImageDBDaytime1/>
+				<RasterDB\RasterImageDBDaytime2/>
+				<RasterDB\RasterImageDBNight/>
+				<RasterDB\RasterImageDBNight1/>
+				<RasterDB\RasterImageDBNight2/>
+
+				<MapCompanyDataVer/>
+			</Files>
+		</NW>
+
+		<PoI>
+			<ModuleId>3</ModuleId>
+			<MinorVersion>3</MinorVersion>
+
+			<Files>
+				<bktTree.lzo/>
+				<cat.dat/>
+				<Catalog.dat/>
+				<Corpus.dat/>
+				<Dictionary.dat/>
+				<districtoft.dat/>
+				<LandMarkPoi/>
+				<Pinyin.dat/>
+				<records.lzo/>
+				<Special.poi/>
+			</Files>
+		</PoI>
+
+		<GeoCode>
+			<ModuleId>4</ModuleId>
+			<MinorVersion>37</MinorVersion>
+
+			<Files>
+				<AreaDB.dat/>
+				<AreaName.dat/>
+				<AreaDBname.sa1/>
+				<AreaDBnamePY.sa2/>
+
+				<gs.dat/>
+				<gs.eid/>
+				<gs.idx/>
+				<gs.sa1/>
+				<gs.sa2/>
+
+				<rgDB.bin/>
+			</Files>
+		</GeoCode>
+
+		<SpeedCam>
+			<ModuleId>5</ModuleId>
+			<MinorVersion>79</MinorVersion>
+
+			<Files>
+				<speedcam/>
+			</Files>
+		</SpeedCam>
+
+		<Pic>
+			<ModuleId>6</ModuleId>
+			<MinorVersion>22</MinorVersion>
+
+			<Files>
+				<PicDB\400_480_0/>
+			</Files>
+		</Pic>
+	</Modules>
+
+	<!-- EId & NodeId Version -->
+	<EIdVersion>17</EIdVersion>
+	<NodeIdVersion>17</NodeIdVersion>
+
+	<!-- Map Map Company Code -->
+	<MapCompanyId>1</MapCompanyId>
+
+	<BuildDate>
+		<BuildYear></BuildYear>
+		<BuildMonth></BuildMonth>
+		<BuildDay></BuildDay>
+	</BuildDate>
+
+	<BuildNumber></BuildNumber>
+
+	<!-- Original Map Version -->
+	<OMMajorVersion>19</OMMajorVersion>
+	<OMMinorVersion>0</OMMinorVersion>
+</doc>
